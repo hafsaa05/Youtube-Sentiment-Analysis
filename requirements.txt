@@ -1,0 +1,14 @@
+google-api-python-client
+python-dotenv
+pandas
+nltk
+vaderSentiment
+emoji
+scikit-learn
+joblib
+langdetect
+streamlit
+plotly
+wordcloud
+matplotlib
+regex
